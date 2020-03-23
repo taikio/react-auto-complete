@@ -1,0 +1,46 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "clientes": [
+        { 
+            "id": 1, 
+            "CLI_NOME": "WELKER ARANTES FERREIRA", 
+            "CLI_CNPJ_CPF": "07877887155", 
+            "CLI_DATANASC": "1992-09-09 13:30:00", 
+            "CLI_FONE": "64 9 8457-9485"
+        },
+        { 
+            "id": 2, 
+            "CLI_NOME": "PAULA FERREIRA DA SILVA", 
+            "CLI_CNPJ_CPF": "04073444074", 
+            "CLI_DATANASC": "1996-09-03 13:30:00", 
+            "CLI_FONE": "64 9 8457-9485"
+        },
+        { 
+            "id": 3, 
+            "CLI_NOME": "IGOR ARANTES DE CARVALHO", 
+            "CLI_CNPJ_CPF": "00427440171", 
+            "CLI_DATANASC": "1991-03-01 13:30:00", 
+            "CLI_FONE": "64 9 8457-9485"
+        },
+        { 
+            "id": 4, 
+            "CLI_NOME": "WELKER PEREIRA DA SILVA", 
+            "CLI_CNPJ_CPF": "03878088175", 
+            "CLI_DATANASC": "1992-09-09 13:30:00", 
+            "CLI_FONE": "64 9 8457-9485"
+        },
+        { 
+            "id": 5, 
+            "CLI_NOME": "WELKER ARAÚJO FERNANDES", 
+            "CLI_CNPJ_CPF": "03878088175", 
+            "CLI_DATANASC": "1992-09-09 13:30:00", 
+            "CLI_FONE": "64 9 8457-9485"
+        }
+    ],
+    "profile": { "name": "typicode" }
+  }
